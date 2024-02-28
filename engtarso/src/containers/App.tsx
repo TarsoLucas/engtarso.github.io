@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
-import './styles/App.css';
-import './styles/animate.css'
-import './styles/main.css'
-import './styles/owl.theme.css'
-import './styles/owl.transitions.css'
-import './styles/owl.carousel.css'
+import '../styles/App.css';
+import '../styles/animate.css'
+import '../styles/main.css'
+import '../styles/owl.theme.css'
+import '../styles/owl.transitions.css'
+import '../styles/owl.carousel.css'
 
 function App() {
   return (
